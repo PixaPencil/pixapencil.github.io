@@ -1,2 +1,2 @@
 # pixapencil.github.io
-Website for PixaPencil. This a work in progress.
+Since I don't like HTML/CSS or web dev this project is abandoned until further notice.
